@@ -1,6 +1,6 @@
-# Port Scanning Using Python
+# Gray-Scale Image Converter Using Python
 The Given Python Script is Use only for Color Image Covert into Black & White Image (Gray-Scale)
-# Port-Scaner
+# Gray-Scale_img_conv
 BY Royall-Researchers
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -89,6 +89,8 @@ Medium : https://medium.com/@royallresearchers
 Quora : https://royallresearchers.quora.com
 
 YouTube : https://www.youtube.com@royallresearchers
+
+FaceBook : https://fb.com/royallresearchers
 
 
                                     Thank You !
