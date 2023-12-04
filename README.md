@@ -17,6 +17,7 @@ This tool is provided for educational and informational purposes only. The devel
    
     git clone https://github.com/Royall-Researchers/Gray-Scale_img_conv
     cd Gray-Scale_img_conv
+    pip install PIL
 
 2. **Run This Script:**
 
