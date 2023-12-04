@@ -25,10 +25,8 @@ This tool is provided for educational and informational purposes only. The devel
 
 3. **Output will Looks Like**
 
-   ```bash
-   python3 Gray-Scale_conv.PY
+   
 Gray-Scale Image Converter By 
-"""  
  ____                   _ _ 
 |  _ \ ___  _   _  __ _| | |
 | |_) / _ \| | | |/ _` | | |
@@ -50,7 +48,7 @@ Gray-Scale Image Converter By
         [+]Blog : https://royallresearchers.blogspot.com 
         [+]Medium : https://medium.com/@royallresearchers 
         [+]Quora : https://royallresearchers.quora.com 
-"""
+	
 Enter Image Path (incl file name) : /home/user/Desktop/abcd.png
 Enter Where The Image want to save (with name of the output image) : /home/user/abcde.png
 The Given Color Image is Successfully Converted to Gray Scale Image(Black & White)
