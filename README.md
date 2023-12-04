@@ -25,35 +25,38 @@ This tool is provided for educational and informational purposes only. The devel
 
 3. **Output will Looks Like**
 
-   
-Gray-Scale Image Converter By 
- ____                   _ _ 
-|  _ \ ___  _   _  __ _| | |
-| |_) / _ \| | | |/ _` | | |
-|  _ < (_) | |_| | (_| | | |
-|_| \_\___/ \__, |\__,_|_|_|
+   ```bash
+
+
+    ____                   _ _ 
+   |  _ \ ___  _   _  __ _| | |
+   | |_) / _ \| | | |/ _` | | |
+   |  _ < (_) | |_| | (_| | | |  
+   |_| \_\___/ \__, |\__,_|_|_|
             |___/           
- ____                               _                   
-|  _ \ ___  ___  ___  __ _ _ __ ___| |__   ___ _ __ ___ 
-| |_) / _ \/ __|/ _ \/ _` | '__/ __| '_ \ / _ \ '__/ __|
-|  _ <  __/\__ \  __/ (_| | | | (__| | | |  __/ |  \__ \ 
-|_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
+    ____                               _                   
+   |  _ \ ___  ___  ___  __ _ _ __ ___| |__   ___ _ __ ___  
+   | |_) / _ \/ __|/ _ \/ _` | '__/ __| '_ \ / _ \ '__/ __|
+   |  _ <  __/\__ \  __/ (_| | | | (__| | | |  __/ |  \__ \ 
+   |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
  
 
-	[+]This Tool is Created by Royall Researchers 
-	[+]This Tool is only for Educational Purpose 
-        [+]no support for illegal or Un Ethical Activities 
-        [+]You can Learn More From me 
-        [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-        [+]Blog : https://royallresearchers.blogspot.com 
-        [+]Medium : https://medium.com/@royallresearchers 
-        [+]Quora : https://royallresearchers.quora.com 
+        	[+]This Tool is Created by Royall Researchers 
+	        [+]This Tool is only for Educational Purpose 
+                [+]no support for illegal or Un Ethical Activities 
+                [+]You can Learn More From me 
+                [+]Follow More InstaGram : https://instagram.com/royallresearchers 
+                [+]Blog : https://royallresearchers.blogspot.com 
+                [+]Medium : https://medium.com/@royallresearchers 
+                [+]Quora : https://royallresearchers.quora.com 
 	
-Enter Image Path (incl file name) : /home/user/Desktop/abcd.png
-Enter Where The Image want to save (with name of the output image) : /home/user/abcde.png
-The Given Color Image is Successfully Converted to Gray Scale Image(Black & White)
-                Thank You !
+   Enter Image Path (incl file name) : /home/user/Desktop/abcd.png
+   Enter Where The Image want to save (with name of the output image) : /home/user/abcde.png
+   The Given Color Image is Successfully Converted to Gray Scale Image(Black & White)
+                      Thank You !
                                                                                      
+   ************************************************************************************************************
+
 
 ## Terms and Conditions
 
