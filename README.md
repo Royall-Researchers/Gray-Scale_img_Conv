@@ -88,9 +88,5 @@ Medium : https://medium.com/@royallresearchers
 
 Quora : https://royallresearchers.quora.com
 
-YouTube : https://www.youtube.com@royallresearchers
-
-FaceBook : https://fb.com/royallresearchers
-
 
                                     Thank You !
