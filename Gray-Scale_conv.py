@@ -19,15 +19,6 @@ print( '''
 ''')
 
 
-print('''	[+]This Tool is Created by Royall Researchers 
-	[+]This Tool is only for Educational Purpose 
-        [+]no support for illegal or Un Ethical Activities 
-        [+]You can Learn More From me 
-        [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-        [+]Blog : https://royallresearchers.blogspot.com 
-        [+]Medium : https://medium.com/@royallresearchers 
-        [+]Quora : https://royallresearchers.quora.com 
-''')
 def convert_to_black_and_white(input_image_path, output_image_path):
     # Open the image file
     img = Image.open(input_image_path)
