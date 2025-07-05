@@ -41,15 +41,6 @@ This tool is provided for educational and informational purposes only. The devel
    |  _ <  __/\__ \  __/ (_| | | | (__| | | |  __/ |  \__ \ 
    |_| \_\___||___/\___|\__,_|_|  \___|_| |_|\___|_|  |___/
  
-
-        	[+]This Tool is Created by Royall Researchers 
-	        [+]This Tool is only for Educational Purpose 
-                [+]no support for illegal or Un Ethical Activities 
-                [+]You can Learn More From me 
-                [+]Follow More InstaGram : https://instagram.com/royallresearchers 
-                [+]Blog : https://royallresearchers.blogspot.com 
-                [+]Medium : https://medium.com/@royallresearchers 
-                [+]Quora : https://royallresearchers.quora.com 
 	
    Enter Image Path (incl file name) : /home/user/Desktop/abcd.png
    Enter Where The Image want to save (with name of the output image) : /home/user/abcde.png
@@ -78,15 +69,5 @@ This project is open-source and released under the [MIT License](LICENSE). Feel 
 ## Contact
 
 For questions, concerns, or feedback, please contact [Royall-Researchers] at [royallresearchers@gmail.com].
-
-
-More on InstaGram : https://instagram.com/royallresearchers
-
-Blog : https://royallresearchers.blogspot.com
-
-Medium : https://medium.com/@royallresearchers
-
-Quora : https://royallresearchers.quora.com
-
 
                                     Thank You !
